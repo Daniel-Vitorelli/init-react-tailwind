@@ -69,7 +69,7 @@ root.render(<App />);
 
 ### 12.
 ``` NPM
-npm install -D tailwindcss
+npm install -D tailwindcss postcss autoprefixer
 ```
 
 ### 13.
